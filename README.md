@@ -1,7 +1,7 @@
 # SnakeGame
 ## Course: 100 days of code: The complete Python Pro Bootcamp
 
-Basic Snake Game build with object-oriented programing>
+Basic Snake Game build with object-oriented programing:
 
 1. A main file that will run the game
 2. Three files with the class for scoreboad, food and creation of the snake.
